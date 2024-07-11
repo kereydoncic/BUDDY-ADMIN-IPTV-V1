@@ -1234,15 +1234,15 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="📺AGENDA📡PH V7🇵🇭",Pluto TV Vida Real (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="" tvg-country=" group-title=" group-title="📺AGENDA📡PH V7🇵🇭",News",Black News Channel (1080p)
+#EXTINF:-1 group-title="📺AGENDA📡PH V7🇵🇭",News",Black News Channel (1080p)
 https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" tvg-country=" group-title=" group-title="📺AGENDA📡PH V7🇵🇭",Undefined",CCTN 47 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="📺AGENDA📡PH V7🇵🇭",Undefined",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" tvg-country=" group-title=" group-title="📺AGENDA📡PH V7🇵🇭",Undefined",13Max Televisión (1080p)
+#EXTINF:-1 group-title="📺AGENDA📡PH V7🇵🇭",Undefined",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" tvg-country=" group-title=" group-title="📺AGENDA📡PH V7🇵🇭",Undefined",Crime Hunters
+#EXTINF:-1 group-title="📺AGENDA📡PH V7🇵🇭",Undefined",Crime Hunters
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="" tvg-country=" group-title=" group-title="📺AGENDA📡PH V7🇵🇭",Undefined",TVN (1080p)
+#EXTINF:-1 group-title="📺AGENDA📡PH V7🇵🇭",Undefined",TVN (1080p)
 https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token&checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="📺AGENDA📡PH V7🇵🇭",Animax
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
@@ -1638,7 +1638,7 @@ https://stream-159.zeno.fm/2ss1hgnu6hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 https://22243.live.streamtheworld.com/YESTHEBEST_MNL_SC
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFK8xVyceD0ATAXAgjrfoyRYLy6yYnGVG2WHtpm0gv4rQZrsv-" group-title="📺AGENDA📡PH MOVIE BOX🇵🇭",-1  , MOVIE BOX
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_1.png" group-title="📺AGENDA📡PH STAR TV🇵🇭", TAIWAN PLUS TV
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_channel_jp_1.png" group-title="📺AGENDA📡PH TAIWAN PLUS🇵🇭", TAIWAN PLUS TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" group-title="📺AGENDA📡FOR ADULT ONLY🇵🇭",AdultIPTV.net Live Cams
 https://live.redtraffic.net/livecams.m3u8
