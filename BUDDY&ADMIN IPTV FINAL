@@ -292,7 +292,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/86
 #EXTINF:-1 tvg-logo="https://imgur.com/3CmlB4Z.jpg" group-title="📺AGENDA📡PH V2🇵🇭",ZOOMOO
 http://115.146.176.131:80/TimRizal/TimRizal/28
 
-#EXTINF:-1 tvg-logo="https://imgur.com/3c6bRDY.jpg" group-title="📺AGENDA📡PH V4🇵🇭",TEST
+#EXTINF:-1 tvg-logo="https://imgur.com/3c6bRDY.jpg" group-title="📺AGENDA📡PH V3🇵🇭",TEST
 
 #EXTINF:-1 tvg-logo="https://imgur.com/InPyFAf.jpg" group-title="📺AGENDA📡PH V4🇵🇭",CLTV 36 PH
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
